@@ -25,7 +25,7 @@ Apart from web development, I have a keen interest in finances and data analysis
 
 ## Startup Development
 
-I'm currently working on an exciting startup project in the finance industry. The goal is to provide a comprehensive and affordable data analysis solution tailored for startups. Here's an overview of my startup development focus:
+I'm currently working on an exciting startup project in the finance, economic and geopolitical industry. The goal is to provide a comprehensive and affordable data analysis solution tailored for startups. Here's an overview of my startup development focus:
 
 - **Data Analysis for Finance**: My startup focuses on developing a data analysis platform specifically designed to meet the needs of expert and beginner analysts on financial, economical and geopolitical sectors. The platform aims to empower people to analyze financial, economical and geopolitical data, gain valuable insights, and make data-driven decisions.
 
